@@ -1,0 +1,24 @@
+.btn-Carte {
+  background-color: #6ab547;
+}
+.btn-Carte:hover {
+  background-color: #f0e990;
+}
+.card {
+  width: 100px;
+  height: 120px;
+}
+.card-title {
+  font-size: small;
+}
+.card-text {
+  font-size: small;
+}
+
+.card {
+    display: flex;
+    flex-flow: row wrap;
+    width: 140px;
+    height: auto;
+    margin-left: 5px;
+}

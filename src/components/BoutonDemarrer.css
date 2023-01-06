@@ -1,0 +1,13 @@
+.btn-demarrer {
+  background-color: #6ab547;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  display: block;
+}
+.btn {
+  color: #fff;
+}
+.btn-demarrer:hover {
+  background-color: #f0e990;
+}

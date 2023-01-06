@@ -1,0 +1,13 @@
+.btn-Ajouter {
+  background-color: #d8829d;
+}
+.btn-Ajouter:hover {
+  background-color: #e6bec0;
+}
+.btn-Enlever {
+  background-color: #d8829d;
+  margin-left: 5px;
+}
+.btn-Enlever:hover {
+  background-color: #e6bec0;
+}

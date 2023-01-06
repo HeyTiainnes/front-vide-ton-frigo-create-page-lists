@@ -1,0 +1,15 @@
+.containerListeEnregistree
+{
+display: inline-block;
+border:1px solid green;
+margin:0.5vh;
+height: 6vh;
+width: 99vw;
+};
+
+.date{
+    /* display:inline-block; */
+background-color: blueviolet;
+font-style: italic;
+};
+

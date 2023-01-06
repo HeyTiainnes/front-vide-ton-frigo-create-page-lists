@@ -1,0 +1,20 @@
+.SurfaceDeControle {
+  display: flex;
+  width: 100%;
+}
+.Choix {
+  overflow-y: auto;
+  width: 57%;
+}
+.TicketDeCaisse {
+  overflow-y: auto;
+  width: 43%;
+}
+.border-dark {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.BoutonFooter {
+  margin-top: 10px;
+}
